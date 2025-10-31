@@ -36,27 +36,6 @@ Um site informativo e visualmente atraente sobre Busan, a vibrante cidade costei
 - **Google Fonts** - Tipografia Open Sans
 - **Design Responsivo** - Media queries para múltiplos dispositivos
 
-## 🚀 Como Usar
-
-### Pré-requisitos
-- Navegador web moderno
-- Servidor web local (opcional)
-
-### Instalação Local
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/guia-turistico-busan.git
-
-# Acesse o diretório
-cd guia-turistico-busan
-
-# Abra o arquivo index.html no navegador
-# Ou use um servidor local:
-python -m http.server 8000
-# ou
-npx serve .
-```
-
 ### Estrutura de Arquivos
 ```
 guia-turistico-busan/
@@ -104,32 +83,6 @@ O site é otimizado para:
 - Navegação por teclado
 - Textos alternativos em imagens
 
-## 🤝 Contribuindo
 
-Contribuições são bem-vindas! Para contribuir:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-## 📞 Contato
-
-Seu Nome - [@seuTwitter](https://twitter.com/seuTwitter) - email@exemplo.com
-
-Link do Projeto: [https://github.com/seu-usuario/guia-turistico-busan](https://github.com/seu-usuario/guia-turistico-busan)
-
-## 🙏 Agradecimentos
-
-- [Google Fonts](https://fonts.google.com/) pela tipografia Open Sans
-- Imagens de stock de Busan
-- Comunidade de desenvolvimento web por recursos e inspiração
-
----
 
 **⭐️ Se você gostou deste projeto, não esqueça de dar uma estrela!**
