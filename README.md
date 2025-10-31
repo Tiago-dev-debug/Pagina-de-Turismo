@@ -36,20 +36,6 @@ Um site informativo e visualmente atraente sobre Busan, a vibrante cidade costei
 - **Google Fonts** - Tipografia Open Sans
 - **Design Responsivo** - Media queries para múltiplos dispositivos
 
-### Estrutura de Arquivos
-```
-guia-turistico-busan/
-│
-├── index.html          # Página principal
-├── style.css           # Estilos principais
-├── README.md           # Este arquivo
-└── assets/             # Diretório de imagens
-    ├── Busan.jpg       # Imagem principal
-    ├── Haedong.jpg     # Templo Haedong
-    ├── Beomeo.jpg      # Templo Beomeo-sa
-    └── Yongdusan.jpg   # Parque Yongdusan
-```
-
 ## 🎨 Personalização
 
 O projeto utiliza variáveis CSS para fácil customização:
